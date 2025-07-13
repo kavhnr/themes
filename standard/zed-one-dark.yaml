@@ -1,0 +1,25 @@
+name: Zed One Dark
+accent: '#74ade8'
+cursor: '#74ade8'
+background: '#282c33'
+foreground: '#dce0e5'
+details: darker
+terminal_colors:
+  bright:
+    black: '#525561'
+    blue: '#74ade8'
+    cyan: '#6eb4bf'
+    green: '#a1c181'
+    magenta: '#be5046'
+    red: '#d07277'
+    white: '#dce0e5'
+    yellow: '#dec184'
+  normal:
+    black: '#282c33'
+    blue: '#74ade8'
+    cyan: '#6eb4bf'
+    green: '#a1c181'
+    magenta: '#be5046'
+    red: '#d07277'
+    white: '#dce0e5'
+    yellow: '#dec184'
